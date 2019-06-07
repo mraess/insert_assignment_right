@@ -10,3 +10,4 @@
 insert_assignment_right <- function() {
   rstudioapi::insertText(" -> ")
 }
+

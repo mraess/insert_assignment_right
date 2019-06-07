@@ -1,4 +1,4 @@
 Name: Insert Assignment Right
 Description: Add right assignment operator
-Binding: Insert Assignment Right
+Binding: insert_assignment_right
 Interactive: false

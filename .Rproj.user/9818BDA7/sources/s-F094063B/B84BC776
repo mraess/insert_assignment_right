@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559941613399.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B84BC776",
+    "lastKnownWriteTime" : 1559941789,
+    "last_content_update" : 1559941789,
+    "path" : "~/Analytics_R/InsertAssignmentOperatorRight/man/insert_assignment_right.Rd",
+    "project_path" : "man/insert_assignment_right.Rd",
+    "properties" : {
+        "cursorPosition" : "0,6",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

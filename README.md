@@ -15,9 +15,8 @@ You can now either click on the add-in function at the add-in tab, or add a keyb
 
 EXAMPLE: ALT+R, ``` r iris %>% select(1:2) -> iris_sub```
 
-![Step1](https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_1.png){:height="50%" width="50%"}
 
-<img src="https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_1.png" width="200" height="400" />
+<img src="https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_1.png" width="50%" />
 
 ![Step2](https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_2.png)
 

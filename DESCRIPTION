@@ -1,6 +1,6 @@
 Package: InsertAssignmentOperatorRight
 Type: Package
-Title: This add-in lets you insert an assignment operator in the opposition direction ```->```
+Title: This add-in lets you insert an assignment operator in the opposition direction ->
 Version: 0.1.0
 Author: Matthias Raess
 Maintainer: Matthias Raess <matthias.raess@gmail.com>

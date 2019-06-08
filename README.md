@@ -15,10 +15,10 @@ You can now either click on the add-in function at the add-in tab, or add a keyb
 
 EXAMPLE: ALT+R, ``` r iris %>% select(1:2) -> iris_sub```
 
-![Step1](https://github.com/mraess/insert_assignment_right/insert_screenshots/pic_1.png)
+![Step1](https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_1.png)
 
-![Step2](https://github.com/mraess/insert_assignment_right/insert_screenshots/pic_2.png)
+![Step2](https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_2.png)
 
-![Step3](https://github.com/mraess/insert_assignment_right/insert_screenshots/pic_3.png)
+![Step3](https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_3.png)
 
 

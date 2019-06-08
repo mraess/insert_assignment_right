@@ -17,6 +17,8 @@ EXAMPLE: ALT+R, ``` r iris %>% select(1:2) -> iris_sub```
 
 ![Step1](https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_1.png){:height="50%" width="50%"}
 
+<img src="https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_1.png" width="200" height="400" />
+
 ![Step2](https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_2.png)
 
 ![Step3](https://github.com/mraess/insert_assignment_right/blob/master/insert_screenshots/pic_3.png)

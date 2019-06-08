@@ -1,4 +1,4 @@
-Name: Insert Assignment Right
+Name: Insert ->
 Description: Add right assignment operator
 Binding: insert_assignment_right
 Interactive: false
